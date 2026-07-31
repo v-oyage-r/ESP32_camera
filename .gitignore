@@ -1,0 +1,35 @@
+# ESP-IDF build files
+build/
+managed_components/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# CLion / JetBrains
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+sdkconfig
+sdkconfig.old
+
